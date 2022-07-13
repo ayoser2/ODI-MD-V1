@@ -1,0 +1,1 @@
+worker: npm i --location=global pm2 && pm2 start franxx.js && pm2 save && pm2 logs
